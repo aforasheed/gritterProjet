@@ -1,0 +1,38 @@
+body {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+#content{
+    overflow: auto;
+    height: 100%;
+}
+#nav, #feature, #footer {
+    background-color: #efefef;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.column1, .column2, .column3 {
+    background-color: #efefef;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    border-radius: 10px;
+}
+li {
+    display: inline;
+    padding: 5px;
+    text-decoration: none;
+}
+
+li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #cccccc;
+    font-weight: 600;
+}
+
+

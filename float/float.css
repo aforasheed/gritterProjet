@@ -1,0 +1,16 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    width: 750px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p {
+    float: left;
+    margin: 5px;
+    width: 230px;
+    padding: 5px;
+    background-color: #efefef;
+    border-top: 1px solid #225566;
+    border-bottom: 1px solid;    
+}

@@ -1,0 +1,71 @@
+body {
+    width: 750px;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1.bicycle {
+    background-color: #efefef;
+    padding: 10px;
+}
+
+p {
+    width: 450px;
+}
+
+p.second {
+    position: relative;
+    top: 15px;
+    left: 20%;
+}
+
+h1.evolution {
+    background-color: antiquewhite;
+}
+
+.one {
+    background-color: lightcyan;
+    height: 300px;
+    width: 300px;
+    z-index: 3;
+    position: relative;
+}
+
+.two {
+    background-color: lightblue;
+    height: 300px;
+    width: 300px;
+    margin-top: -150px;
+    margin-left: 150px;
+    z-index: 2;
+    position: relative;
+}
+
+blockquote {
+    float: right;
+    width: 275px;
+    font-size: 130%;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', serif;
+    margin: 0 0 10px 10px;
+    padding: 10px;
+    border-top: 1px solid #665544;
+    border-bottom: 1px solid #665544;
+}
+.para {
+    width: 300px;
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: oblique;
+    padding: 10px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    margin-top: 0px;
+}
+.come {
+    backgro;
+}
